@@ -1,3 +1,9 @@
 # hello-world
 Test
-coucou
+<p>coucou</p>
+<style>
+  p
+  {
+  color: blue;
+  }
+</style>
